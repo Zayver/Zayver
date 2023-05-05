@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santiago Z</h1>
+<h1 align="center">Hi 👋, I'm Santiago Z  🏳️‍🌈 🏳️‍🌈 🏳️‍🌈 🏳️‍🌈 (She/Her) </h1>
 <h3 align="center">Systems Engineer student at Pontificia Universidad Javeriana</h3>
 
 <p align="left">
