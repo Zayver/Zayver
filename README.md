@@ -1,5 +1,5 @@
 # 💫 About Me:
-Systems engineer student at Pontificia Universidad Javeriana. Linux and Opensource enjoyer
+Systems engineer.Linux and Opensource enjoyer
 
 
 # 💻 Tech Stack:
